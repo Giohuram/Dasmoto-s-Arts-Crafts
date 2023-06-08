@@ -1,0 +1,73 @@
+body {
+    background: white;
+    color: black;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+  
+  span {
+    color: blue; 
+    font-family: Helvetica;
+    font-weight: bold;
+  }
+
+  
+  /*======= Header section =====*/
+  .topic {
+   background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg); 
+   text-align: center; 
+   color: khaki;
+   font-family: Helvetica; 
+   font-size: 100px; 
+   font-weight: bold; 
+   margin-top: 0%;
+   margin-bottom: 10px; 
+   padding: 5px 5px 5px 5px;
+  }
+  
+  /*======= Brushes section =====*/
+  .mycolor {
+    background-color: mediumspringgreen; 
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding-top: 5px;  
+  }
+  
+  .brushes-picture {
+    margin-left: 0%; 
+  }
+  
+  
+  
+  /*======= Frames section =====*/
+  .Frames {
+    background-color: lightcoral;
+    color: white; 
+    padding-top: 5px;   
+  }
+
+  .frames-picture {
+    margin-left: 0%; 
+  }
+  
+  
+  
+  /*======= Paint section =====*/
+  .paint {
+    background-color: skyblue;
+    color: white; 
+    padding-top: 5px;   
+  }
+
+  .paint-picture {
+    margin-left: 0%; 
+  }
+  
+
+
+
+  
+  
+  
